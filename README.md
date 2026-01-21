@@ -111,7 +111,7 @@ Examples of insights include:
     `queries/Group_1-7_Complete.sql` to run all analyses at once
 
 ## How to Run (MySQL)
-1.  Import the database `db_mysql.sql` already set up and clean from `data/db/` (recommended) or follow the instruction below
+1.  Import the database `db_mysql.sql` already set up and clean from `data/db/` with views of the queries included (recommended) or follow the instruction below
 2. Import all raw CSV files from `data/raw/` into MySQL Workbench
 3.   Run `schema/alter_tables_mysql.sql` to standardize column names
 4.   Run `schema/create_tables_mysql.sql` to recreate tables with correct data types, primary keys, and foreign keys
