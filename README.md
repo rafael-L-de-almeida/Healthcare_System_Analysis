@@ -41,10 +41,10 @@ The project includes **44 SQL query-answers to business questions** and is struc
 - Business questions organized by analytical group are available in::  `business questions/`
 
 
-## Entity Relationship Diagram (ER Diagram)
+## Entity Relationship Diagrams (ER Diagram)
 -   Located in: `schema/`
 
-![Average Blood Pressure Chart](https://i.imgur.com/igUcoIq.png)
+![Average Blood Pressure Chart](https://i.imgur.com/cV0mBk9.png)
 
 ## SQL Queries (SQLite)
 -    `queries/Group_1-7_Complete.sql`
