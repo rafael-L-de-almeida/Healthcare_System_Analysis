@@ -1,4 +1,9 @@
-﻿
+# INSIGHTS
+
+As a start, for an overview of the patients and encounters of the healthcare system, it was developed an Power BI two reports. Click [here](https://app.powerbi.com/view?r=eyJrIjoiMjE2NmQ4NGUtNThmYS00YTZkLTlmY2UtN2U1NzVhYTY3YWUwIiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9) to access the **Power BI** report and interact with it.
+
+After interating with it and getting familiar with the data, we can go for the queries.
+
 # Group 1: Patient Demographics & Contact Info
 
 ### Q1 – **Business question:** Age distribution by gender and blood type  
